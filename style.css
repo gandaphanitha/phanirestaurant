@@ -918,7 +918,7 @@
     transform: translateX(-50%);
     width: 140px;
     height: 100%;
-    background-image: url('../images/img-pattern.svg');
+    background-image: url('https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwy9gTfikPh21QRIdMTaOU2ZeZm9bXdUBnUEai8w9uXAfFTo13');
     background-position: center;
     background-size: cover;
     background-repeat: repeat;
@@ -989,13 +989,13 @@
     left: 50%;
     transform: translateX(-50%);
     width: 140px;
-    background-image: url('../images/img-pattern.svg');
+    background-image: url('https://raw.githubusercontent.com/codewithsadee/grilli/e23428321f14d6841067f44901ca90223cbd0ed1/assets/images/img-pattern.svg');
     background-repeat: repeat;
   }
   
   .about .abs-img-2::before {
     inset: 0;
-    background-image: url('../images/badge-2-bg.png');
+    background-image: url('https://raw.githubusercontent.com/codewithsadee/grilli/master/assets/images/badge-2-bg.png');
     background-repeat: no-repeat;
     background-size: contain;
     animation: rotate360 15s linear infinite;
@@ -1311,7 +1311,7 @@
   .footer-brand {
     position: relative;
     padding: 50px 40px;
-    background: var(--smoky-black-1) url("../images/footer-form-bg.png");
+    background: var(--smoky-black-1) url("https://raw.githubusercontent.com/codewithsadee/grilli/master/assets/images/footer-form-bg.png");
     background-position: center top;
     background-repeat: repeat;
   }
@@ -1321,7 +1321,7 @@
     top: 0;
     width: 15px;
     height: 100%;
-    background-image: url("../images/footer-form-pattern.svg");
+    background-image: url("https://raw.githubusercontent.com/codewithsadee/grilli/e23428321f14d6841067f44901ca90223cbd0ed1/assets/images/footer-form-pattern.svg");
   }
   
   .footer-brand::before { left: 0; }
